@@ -1,3 +1,13 @@
+% ====================================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 4
+%
+% Multi-class Classification and Neural Networks: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================================
+
 function [all_theta] = oneVsAll(X, y, num_labels, lambda)
 %ONEVSALL trains multiple logistic regression classifiers and returns all
 %the classifiers in a matrix all_theta, where the i-th row of all_theta 

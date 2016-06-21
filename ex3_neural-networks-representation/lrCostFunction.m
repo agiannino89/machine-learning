@@ -1,3 +1,13 @@
+% ====================================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 4
+%
+% Multi-class Classification and Neural Networks: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================================
+
 function [J, grad] = lrCostFunction(theta, X, y, lambda)
 %LRCOSTFUNCTION Compute cost and gradient for logistic regression with 
 %regularization
