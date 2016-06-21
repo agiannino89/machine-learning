@@ -1,3 +1,13 @@
+% ========================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 3
+%
+% Logistic Regression: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% =========================================
+
 function [J, grad] = costFunction(theta, X, y)
 %COSTFUNCTION Compute cost and gradient for logistic regression
 %   J = COSTFUNCTION(theta, X, y) computes the cost of using theta as the

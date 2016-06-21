@@ -1,3 +1,13 @@
+% ========================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 3
+%
+% Logistic Regression: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% =========================================
+
 function g = sigmoid(z)
 %SIGMOID Compute sigmoid functoon
 %   J = SIGMOID(z) computes the sigmoid of z.

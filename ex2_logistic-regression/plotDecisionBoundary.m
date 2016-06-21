@@ -1,3 +1,13 @@
+% ========================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 3
+%
+% Logistic Regression: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% =========================================
+
 function plotDecisionBoundary(theta, X, y)
 %PLOTDECISIONBOUNDARY Plots the data points X and y into a new figure with
 %the decision boundary defined by theta

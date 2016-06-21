@@ -1,3 +1,13 @@
+% ========================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 3
+%
+% Logistic Regression: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% =========================================
+
 %% Machine Learning Online Class - Exercise 2: Logistic Regression
 %
 %  Instructions
