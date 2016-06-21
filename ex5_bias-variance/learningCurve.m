@@ -1,3 +1,13 @@
+% ====================================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 6
+%
+% Regularized Linear Regression and Bias/Variance: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================================
+
 function [error_train, error_val] = ...
     learningCurve(X, y, Xval, yval, lambda)
 %LEARNINGCURVE Generates the train and cross validation set errors needed 

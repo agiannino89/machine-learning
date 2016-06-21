@@ -1,3 +1,13 @@
+% ====================================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 6
+%
+% Regularized Linear Regression and Bias/Variance: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================================
+
 function [theta] = trainLinearReg(X, y, lambda)
 %TRAINLINEARREG Trains linear regression given a dataset (X, y) and a
 %regularization parameter lambda

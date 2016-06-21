@@ -1,3 +1,13 @@
+% ====================================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 6
+%
+% Regularized Linear Regression and Bias/Variance: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================================
+
 function [X_poly] = polyFeatures(X, p)
 %POLYFEATURES Maps X (1D vector) into the p-th power
 %   [X_poly] = POLYFEATURES(X, p) takes a data matrix X (size m x 1) and

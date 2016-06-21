@@ -1,3 +1,13 @@
+% ====================================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 6
+%
+% Regularized Linear Regression and Bias/Variance: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================================
+
 function plotFit(min_x, max_x, mu, sigma, theta, p)
 %PLOTFIT Plots a learned polynomial regression fit over an existing figure.
 %Also works with linear regression.

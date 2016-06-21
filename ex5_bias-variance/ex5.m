@@ -1,3 +1,13 @@
+% ====================================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 6
+%
+% Regularized Linear Regression and Bias/Variance: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================================
+
 %% Machine Learning Online Class
 %  Exercise 5 | Regularized Linear Regression and Bias-Variance
 %

@@ -1,3 +1,13 @@
+% ====================================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 6
+%
+% Regularized Linear Regression and Bias/Variance: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================================
+
 function [lambda_vec, error_train, error_val] = ...
     validationCurve(X, y, Xval, yval)
 %VALIDATIONCURVE Generate the train and validation errors needed to

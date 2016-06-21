@@ -1,3 +1,13 @@
+% ====================================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 6
+%
+% Regularized Linear Regression and Bias/Variance: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================================
+
 function [J, grad] = linearRegCostFunction(X, y, theta, lambda)
 %LINEARREGCOSTFUNCTION Compute cost and gradient for regularized linear 
 %regression with multiple variables
