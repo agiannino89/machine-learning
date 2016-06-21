@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 8
+%
+% K-Means Clustering and PCA: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 function Z = projectData(X, U, K)
 %PROJECTDATA Computes the reduced data representation when projecting only 
 %on to the top k eigenvectors

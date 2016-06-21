@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 8
+%
+% K-Means Clustering and PCA: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 %% Machine Learning Online Class
 %  Exercise 7 | Principle Component Analysis and K-Means Clustering
 %

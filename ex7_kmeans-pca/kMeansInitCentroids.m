@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 8
+%
+% K-Means Clustering and PCA: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 function centroids = kMeansInitCentroids(X, K)
 %KMEANSINITCENTROIDS This function initializes K centroids that are to be 
 %used in K-Means on the dataset X

@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 8
+%
+% K-Means Clustering and PCA: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 function centroids = computeCentroids(X, idx, K)
 %COMPUTECENTROIDS returs the new centroids by computing the means of the 
 %data points assigned to each centroid.

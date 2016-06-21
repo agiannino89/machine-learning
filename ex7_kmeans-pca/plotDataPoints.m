@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 8
+%
+% K-Means Clustering and PCA: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 function plotDataPoints(X, idx, K)
 %PLOTDATAPOINTS plots data points in X, coloring them so that those with the same
 %index assignments in idx have the same color

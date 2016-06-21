@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 8
+%
+% K-Means Clustering and PCA: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 function [U, S] = pca(X)
 %PCA Run principal component analysis on the dataset X
 %   [U, S, X] = pca(X) computes eigenvectors of the covariance matrix of X

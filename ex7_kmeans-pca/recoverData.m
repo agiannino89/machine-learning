@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 8
+%
+% K-Means Clustering and PCA: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 function X_rec = recoverData(Z, U, K)
 %RECOVERDATA Recovers an approximation of the original data when using the 
 %projected data

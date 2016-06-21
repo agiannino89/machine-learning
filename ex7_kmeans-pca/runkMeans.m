@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 8
+%
+% K-Means Clustering and PCA: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 function [centroids, idx] = runkMeans(X, initial_centroids, ...
                                       max_iters, plot_progress)
 %RUNKMEANS runs the K-Means algorithm on data matrix X, where each row of X
