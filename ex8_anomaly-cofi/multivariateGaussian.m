@@ -1,3 +1,13 @@
+% ==============================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 9
+%
+% Anomaly Detection and Recommender Systems: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==============================================================
+
 function p = multivariateGaussian(X, mu, Sigma2)
 %MULTIVARIATEGAUSSIAN Computes the probability density function of the
 %multivariate gaussian distribution.

@@ -1,3 +1,13 @@
+% ==============================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 9
+%
+% Anomaly Detection and Recommender Systems: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==============================================================
+
 function [Ynorm, Ymean] = normalizeRatings(Y, R)
 %NORMALIZERATINGS Preprocess data by subtracting mean rating for every 
 %movie (every row)

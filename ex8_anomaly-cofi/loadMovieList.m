@@ -1,3 +1,13 @@
+% ==============================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 9
+%
+% Anomaly Detection and Recommender Systems: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==============================================================
+
 function movieList = loadMovieList()
 %GETMOVIELIST reads the fixed movie list in movie.txt and returns a
 %cell array of the words

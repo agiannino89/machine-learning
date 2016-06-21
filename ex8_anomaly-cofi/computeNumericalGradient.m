@@ -1,3 +1,13 @@
+% ==============================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 9
+%
+% Anomaly Detection and Recommender Systems: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==============================================================
+
 function numgrad = computeNumericalGradient(J, theta)
 %COMPUTENUMERICALGRADIENT Computes the gradient using "finite differences"
 %and gives us a numerical estimate of the gradient.

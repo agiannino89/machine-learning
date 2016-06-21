@@ -1,3 +1,13 @@
+% ==============================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 9
+%
+% Anomaly Detection and Recommender Systems: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==============================================================
+
 function [J, grad] = cofiCostFunc(params, Y, R, num_users, num_movies, ...
                                   num_features, lambda)
 %COFICOSTFUNC Collaborative filtering cost function

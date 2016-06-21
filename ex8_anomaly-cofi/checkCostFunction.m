@@ -1,3 +1,13 @@
+% ==============================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 9
+%
+% Anomaly Detection and Recommender Systems: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==============================================================
+
 function checkCostFunction(lambda)
 %CHECKCOSTFUNCTION Creates a collaborative filering problem 
 %to check your cost function and gradients

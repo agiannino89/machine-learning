@@ -1,3 +1,13 @@
+% ==============================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 9
+%
+% Anomaly Detection and Recommender Systems: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==============================================================
+
 function [bestEpsilon bestF1] = selectThreshold(yval, pval)
 %SELECTTHRESHOLD Find the best threshold (epsilon) to use for selecting
 %outliers
