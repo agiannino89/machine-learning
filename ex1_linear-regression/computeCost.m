@@ -1,3 +1,13 @@
+% ========================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 2
+%
+% Linear Regression: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% =========================================
+
 function J = computeCost(X, y, theta)
 %COMPUTECOST Compute cost for linear regression
 %   J = COMPUTECOST(X, y, theta) computes the cost of using theta as the

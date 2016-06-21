@@ -1,3 +1,13 @@
+% ========================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 2
+%
+% Linear Regression: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% =========================================
+
 function [theta, J_history] = gradientDescent(X, y, theta, alpha, num_iters)
 %GRADIENTDESCENT Performs gradient descent to learn theta
 %   theta = GRADIENTDESENT(X, y, theta, alpha, num_iters) updates theta by 

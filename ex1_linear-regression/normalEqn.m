@@ -1,3 +1,13 @@
+% ========================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 2
+%
+% Linear Regression: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% =========================================
+
 function [theta] = normalEqn(X, y)
 %NORMALEQN Computes the closed-form solution to linear regression 
 %   NORMALEQN(X,y) computes the closed-form solution to linear 

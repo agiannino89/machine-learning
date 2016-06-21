@@ -1,3 +1,12 @@
+% ========================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 2
+%
+% Linear Regression: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% =========================================
 function J = computeCostMulti(X, y, theta)
 %COMPUTECOSTMULTI Compute cost for linear regression with multiple variables
 %   J = COMPUTECOSTMULTI(X, y, theta) computes the cost of using theta as the
