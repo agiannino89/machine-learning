@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 5
+%
+% Neural Network Learning: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 %% Machine Learning Online Class - Exercise 4 Neural Network Learning
 
 %  Instructions

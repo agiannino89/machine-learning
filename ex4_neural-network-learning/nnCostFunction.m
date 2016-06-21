@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 5
+%
+% Neural Network Learning: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 function [J grad] = nnCostFunction(nn_params, ...
                                    input_layer_size, ...
                                    hidden_layer_size, ...

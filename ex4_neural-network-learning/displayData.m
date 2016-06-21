@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 5
+%
+% Neural Network Learning: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 function [h, display_array] = displayData(X, example_width)
 %DISPLAYDATA Display 2D data in a nice grid
 %   [h, display_array] = DISPLAYDATA(X, example_width) displays 2D data

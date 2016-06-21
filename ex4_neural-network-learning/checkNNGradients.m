@@ -1,3 +1,13 @@
+% ==================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 5
+%
+% Neural Network Learning: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ==================================================
+
 function checkNNGradients(lambda)
 %CHECKNNGRADIENTS Creates a small neural network to check the
 %backpropagation gradients
