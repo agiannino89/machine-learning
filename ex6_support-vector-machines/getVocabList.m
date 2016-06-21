@@ -1,3 +1,13 @@
+% ====================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 7
+%
+% Support Vector Machines: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================
+
 function vocabList = getVocabList()
 %GETVOCABLIST reads the fixed vocabulary list in vocab.txt and returns a
 %cell array of the words

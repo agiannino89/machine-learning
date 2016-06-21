@@ -1,3 +1,13 @@
+% ====================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 7
+%
+% Support Vector Machines: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================
+
 function word_indices = processEmail(email_contents)
 %PROCESSEMAIL preprocesses a the body of an email and
 %returns a list of word_indices 

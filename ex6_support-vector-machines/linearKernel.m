@@ -1,3 +1,13 @@
+% ====================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 7
+%
+% Support Vector Machines: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================
+
 function sim = linearKernel(x1, x2)
 %LINEARKERNEL returns a linear kernel between x1 and x2
 %   sim = linearKernel(x1, x2) returns a linear kernel between x1 and x2

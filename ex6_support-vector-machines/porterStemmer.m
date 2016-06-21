@@ -1,3 +1,13 @@
+% ====================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 7
+%
+% Support Vector Machines: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================
+
 function stem = porterStemmer(inString)
 % Applies the Porter Stemming algorithm as presented in the following
 % paper:

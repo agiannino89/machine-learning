@@ -1,3 +1,13 @@
+% ====================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 7
+%
+% Support Vector Machines: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================
+
 function [C, sigma] = dataset3Params(X, y, Xval, yval)
 %EX6PARAMS returns your choice of C and sigma for Part 3 of the exercise
 %where you select the optimal (C, sigma) learning parameters to use for SVM

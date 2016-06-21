@@ -1,3 +1,13 @@
+% ====================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 7
+%
+% Support Vector Machines: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================
+
 function visualizeBoundaryLinear(X, y, model)
 %VISUALIZEBOUNDARYLINEAR plots a linear decision boundary learned by the
 %SVM

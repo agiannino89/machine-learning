@@ -1,3 +1,13 @@
+% ====================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 7
+%
+% Support Vector Machines: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================
+
 function pred = svmPredict(model, X)
 %SVMPREDICT returns a vector of predictions using a trained SVM model
 %(svmTrain). 

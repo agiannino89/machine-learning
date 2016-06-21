@@ -1,3 +1,13 @@
+% ====================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 7
+%
+% Support Vector Machines: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================
+
 function [model] = svmTrain(X, Y, C, kernelFunction, ...
                             tol, max_passes)
 %SVMTRAIN Trains an SVM classifier using a simplified version of the SMO 

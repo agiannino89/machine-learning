@@ -1,3 +1,13 @@
+% ====================================================
+%       Machine Learning
+%           Andrew Ng
+%            Week 7
+%
+% Support Vector Machines: Matlab/Octave code
+%
+% Author: Antonio Giannino
+% ====================================================
+
 function plotData(X, y)
 %PLOTDATA Plots the data points X and y into a new figure 
 %   PLOTDATA(x,y) plots the data points with + for the positive examples
